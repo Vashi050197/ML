@@ -1,0 +1,2 @@
+n=hhshhd
+int(input()) 
